@@ -1,16 +1,88 @@
-# React + Vite
+# 📋 Minha Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplicação de lista de tarefas desenvolvida com **React + Vite** durante meus estudos de desenvolvimento Front-End.
 
-Currently, two official plugins are available:
+O projeto foi criado para praticar conceitos fundamentais do React, como gerenciamento de estado, eventos, renderização de listas e atualização dinâmica da interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Demonstração
 
-## React Compiler
+🔗 **Projeto:** [Minha Todo List](https://github.com/Lcam2419/minha-todo-list)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Funcionalidades
 
-## Expanding the Oxlint configuration
+* ➕ Adicionar novas tarefas
+* ✅ Marcar tarefas como concluídas
+* ↩️ Desfazer conclusão de uma tarefa
+* 🗑️ Excluir tarefas
+* 🚫 Impedir o cadastro de tarefas vazias
+* 🔄 Atualização dinâmica da lista
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Tecnologias utilizadas
+
+* **React**
+* **JavaScript**
+* **Vite**
+* **HTML5**
+* **CSS3**
+* **Git**
+* **GitHub**
+
+## 📚 Conceitos praticados
+
+Durante o desenvolvimento, pratiquei conceitos importantes do JavaScript e React:
+
+* `useState`
+* Eventos com `onClick` e `onChange`
+* Renderização de listas com `map()`
+* Remoção de elementos com `filter()`
+* Objetos e arrays
+* Atualização de estado
+* Renderização condicional
+* JSX
+* Manipulação de eventos
+
+## 💻 Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Lcam2419/minha-todo-list.git
+```
+
+### 2. Entre na pasta
+
+```bash
+cd minha-todo-list
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Execute o projeto
+
+```bash
+npm run dev
+```
+
+Depois, acesse o endereço informado pelo Vite no terminal, normalmente:
+
+```text
+http://localhost:5173
+```
+
+## 🎯 Objetivo do projeto
+
+Este projeto faz parte da minha jornada de aprendizado em **Desenvolvimento Front-End** e foi desenvolvido com o objetivo de colocar em prática conceitos de React e JavaScript através de uma aplicação simples e funcional.
+
+## 👨‍💻 Autor
+
+**Lucas Alexandre**
+
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em desenvolvimento Front-End e buscando oportunidades de **estágio em TI**.
+
+🔗 **GitHub:** [Lcam2419](https://github.com/Lcam2419)
+
+🔗 **Portfólio:** [Meu Portfólio](https://lcam2419.github.io/Meu-Portifolio/)
