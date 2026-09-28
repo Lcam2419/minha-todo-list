@@ -6,7 +6,7 @@ O projeto foi criado para praticar conceitos fundamentais do React, como gerenci
 
 ## 🚀 Demonstração
 
-🔗 **Projeto:** [Minha Todo List](https://github.com/Lcam2419/minha-todo-list)
+🔗 **Projeto:** [Minha Todo List](https://lcam2419.github.io/minha-todo-list/)
 
 ## ✨ Funcionalidades
 
